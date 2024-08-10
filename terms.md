@@ -1,6 +1,6 @@
 # Reelsnap Inc Terms of Service
 
-**Last Updated: August 10, 2024 **
+**Last Updated: August 10, 2024**
 
 If you signed a separate Cover Page to access the Product with the same account, and that agreement has not ended, the terms
 below do not apply to you. Instead, your separate Cover Page applies to your use of the Product.
@@ -8,10 +8,11 @@ below do not apply to you. Instead, your separate Cover Page applies to your use
 This Agreement is between Reelsnap Inc and the company or person accessing or using the Product. This Agreement consists of:
 (1) the Order Form below and (2) the Framework Terms defined below.
 
-<!-- Note: Check to confirm this paragraph works for your company and where your customers are located. -->If you are accessing
-or using the Product on behalf of your company, you represent that you are authorized to accept this Agreement on behalf of your
-company. By signing up, accessing, or using the Product, Customer indicates its acceptance of this Agreement and agrees to be
-bound by the terms and conditions of this Agreement.
+If you are accessing or using the Product on behalf of your company, you
+represent that you are authorized to accept this Agreement on behalf of your
+company. By signing up, accessing, or using the Product, Customer indicates its
+acceptance of this Agreement and agrees to be bound by the terms and conditions
+of this Agreement.
 
 ## Cover Page
 
@@ -29,7 +30,7 @@ Terms.
 
 **Subscription Period:** 1 month(s)
 
-Certain parts of the Product have different pricing plans, which are available at Provider’s [pricing page](https://example.com/not-
+Certain parts of the Product have different pricing plans, which are available at Provider’s [pricing page](not-
 public-yet). Customer will pay Provider the applicable Fees based on the Product tier and Customer’s usage. Provider may update
 Product pricing by giving at least 30 days notice to Customer (including by email or notification within the Product), and the change
 will apply in the next Subscription Period. Modifying Section 5.1, fees are inclusive of taxes.
